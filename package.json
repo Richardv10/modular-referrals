@@ -1,0 +1,8 @@
+{
+  "name": "modular-referrals",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
